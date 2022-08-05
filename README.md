@@ -8,7 +8,7 @@ Este projeto foi criado com Typescript e ReactJS
 
 ## Funcionamento:
 
-Para rodas o projeto só é necessário rodar o 
+Para rodar o projeto só é necessário rodar o 
 ### `npm start`
 
 ## Banco de dados
